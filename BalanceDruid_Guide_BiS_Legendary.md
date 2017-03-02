@@ -9,7 +9,7 @@
     * Cast Half Moon
     * Cast Full moon
 
-![alt text](https://github.itu.dk/laul/Guides/blob/master/Img/Opener_Timeline.PNG)
+![alt text](https://github.com/OliverLaustsen/wow_Guides/blob/master/Img/Opener_Timeline.PNG)
 > As seen on the timeline the new moon hits right @ pull 
 
 ## 2. Rotation
@@ -21,7 +21,7 @@
     * Alternate between casting Solar Wrath and Lunar Strike (Always priortize the spell closest to 3 stacks of empowerment)
     * Reapply dots if need be (shouldn't be need more then 3 times during an entire fight)
 
-![alt text](https://github.itu.dk/laul/Guides/blob/master/Img/DreamCatcher_Uptime.PNG)
+![alt text](https://github.com/OliverLaustsen/wow_Guides/blob/master/Img/DreamCatcher_Uptime.PNG)
 >The cast between the second Solar Wrath and the following Starsurge is delayed as he cannot 
 
 ## 3. Haste Breakpoints
